@@ -702,6 +702,19 @@ header {
   background: #fff;
   box-shadow: 5px 9px 40px 0px rgba(0, 0, 0, 0.08);
 }
+.madeWithJadu{
+  position: relative;
+  bottom: -180px;
+  z-index: 200;
+  left: 37px;
+  width: fit-content;
+  box-shadow: 1px 1px 1px grey;
+  border-radius: 23px;
+  padding: 12px 28px;
+  border-radius: 23px;
+  background: #FFF; 
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
 
 @media screen and (max-width: 1024px) {
   .virat {
